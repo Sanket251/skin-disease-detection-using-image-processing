@@ -1,2 +1,2 @@
 # skin-disease-detection-using-image-processing
-this is centralised repository project in field of medical science
+This is my BE COMPUTER final year engineering project developed in java .
